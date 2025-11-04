@@ -34,6 +34,6 @@ Aplikasi ini dibuat dengan memenuhi kriteria wajib dari soal UTS:
 ## Kredit Aset
 - **Ikon Benar (Ceklis):** [canva.com]
 - **Ikon Salah (Silang):** [canva.com]
-- **Font Kustom:** [Sebutkan nama font dan sumbernya jika Anda pakai, misal: "Font 'Poppins' dari Google Fonts"]
+- **Font Kustom:** [Font 'SourceCodePro-Medium' dari Google Fonts]
 
 ---

@@ -21,7 +21,7 @@ class QuizApp extends StatelessWidget {
       title: 'Quiz App',
       theme: ThemeData(
         // Anda bisa atur tema (termasuk font kustom) di sini
-        // fontFamily: 'NamaFontKustomAnda',
+        fontFamily: 'SourceCodePro',
         primarySwatch: Colors.blue,
       ),
       // Kita gunakan 'named routes' untuk navigasi yang rapi
