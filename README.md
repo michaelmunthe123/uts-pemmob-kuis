@@ -39,8 +39,6 @@ Aplikasi ini dibuat dengan memenuhi kriteria wajib dari soal UTS:
 ---
 ## Screenshot Aplikasi
 
-## Screenshot Aplikasi
-
 | Halaman Welcome | Halaman Input Nama |
 | :---: | :---: |
 | ![Welcome Screen](screenshots/welcome.png) | ![Input Name Screen](screenshots/nama.png) |
