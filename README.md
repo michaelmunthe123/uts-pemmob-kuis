@@ -37,3 +37,14 @@ Aplikasi ini dibuat dengan memenuhi kriteria wajib dari soal UTS:
 - **Font Kustom:** [Font 'SourceCodePro-Medium' dari Google Fonts]
 
 ---
+## Screenshot Aplikasi
+
+| Halaman Welcome | Halaman Kuis |
+| :---: | :---: |
+| ![Welcome Screen](screenshots/welcome.png) | ![Quiz Screen](screenshots/kuis.png) |
+| Feedback Benar | Feedback Salah |
+| :---: | :---: |
+| ![Feedback Benar](screenshots/benar.png) | ![Feedback Salah](screenshots/salah.png) |
+| Halaman Skor |
+| :---: |
+| ![Score Screen](screenshots/skor.png) |
