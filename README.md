@@ -39,12 +39,14 @@ Aplikasi ini dibuat dengan memenuhi kriteria wajib dari soal UTS:
 ---
 ## Screenshot Aplikasi
 
-| Halaman Welcome | Halaman Kuis |
+## Screenshot Aplikasi
+
+| Halaman Welcome | Halaman Input Nama |
 | :---: | :---: |
-| ![Welcome Screen](screenshots/welcome.png) | ![Quiz Screen](screenshots/kuis.png) |
-| Feedback Benar | Feedback Salah |
+| ![Welcome Screen](screenshots/welcome.png) | ![Input Name Screen](screenshots/nama.png) |
+| Halaman Kuis | Feedback Benar |
 | :---: | :---: |
-| ![Feedback Benar](screenshots/benar.png) | ![Feedback Salah](screenshots/salah.png) |
-| Halaman Skor |
-| :---: |
-| ![Score Screen](screenshots/skor.png) |
+| ![Quiz Screen](screenshots/kuis.png) | ![Feedback Benar](screenshots/benar.png) |
+| Feedback Salah | Halaman Skor |
+| :---: | :---: |
+| ![Feedback Salah](screenshots/salah.png) | ![Score Screen](screenshots/skor.png) |
